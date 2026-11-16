@@ -253,7 +253,6 @@ h1 span,
 .product-stage {
   position: relative;
   min-height: 430px;
-  overflow: hidden;
   display: grid;
   place-items: center;
   border-radius: 20px;
